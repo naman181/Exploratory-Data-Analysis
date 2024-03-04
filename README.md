@@ -12,8 +12,7 @@ This is how tha dataset look like
 
 # Correlation Matrix
 ![image](https://github.com/naman181/Exploratory-Data-Analysis/assets/132130598/32c06c03-0045-4007-9336-53e9035bda61)
-#
-this is all without any preprocessing now lets us look the correlation matrix after the preprocessing the data.
+# this is all without any preprocessing now lets us look the correlation matrix after the preprocessing the data.
 ![image](https://github.com/naman181/Exploratory-Data-Analysis/assets/132130598/f095cfb9-c3f1-4fc5-bc4a-910ae67c5839)
 ![image](https://github.com/naman181/Exploratory-Data-Analysis/assets/132130598/7c6b448c-fbc1-48df-8255-a7d1f9c9a7fb)
 
